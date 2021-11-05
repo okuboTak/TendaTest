@@ -1,0 +1,12 @@
+C:\Users\takafumi.ohkubo\Desktop\TendaTest\Tenda_Test\Problem2\bin\Debug\netcoreapp3.1\Problem2.exe
+C:\Users\takafumi.ohkubo\Desktop\TendaTest\Tenda_Test\Problem2\bin\Debug\netcoreapp3.1\Problem2.deps.json
+C:\Users\takafumi.ohkubo\Desktop\TendaTest\Tenda_Test\Problem2\bin\Debug\netcoreapp3.1\Problem2.runtimeconfig.json
+C:\Users\takafumi.ohkubo\Desktop\TendaTest\Tenda_Test\Problem2\bin\Debug\netcoreapp3.1\Problem2.runtimeconfig.dev.json
+C:\Users\takafumi.ohkubo\Desktop\TendaTest\Tenda_Test\Problem2\bin\Debug\netcoreapp3.1\Problem2.dll
+C:\Users\takafumi.ohkubo\Desktop\TendaTest\Tenda_Test\Problem2\bin\Debug\netcoreapp3.1\Problem2.pdb
+C:\Users\takafumi.ohkubo\Desktop\TendaTest\Tenda_Test\Problem2\obj\Debug\netcoreapp3.1\Problem2.AssemblyInfoInputs.cache
+C:\Users\takafumi.ohkubo\Desktop\TendaTest\Tenda_Test\Problem2\obj\Debug\netcoreapp3.1\Problem2.AssemblyInfo.cs
+C:\Users\takafumi.ohkubo\Desktop\TendaTest\Tenda_Test\Problem2\obj\Debug\netcoreapp3.1\Problem2.csproj.CoreCompileInputs.cache
+C:\Users\takafumi.ohkubo\Desktop\TendaTest\Tenda_Test\Problem2\obj\Debug\netcoreapp3.1\Problem2.dll
+C:\Users\takafumi.ohkubo\Desktop\TendaTest\Tenda_Test\Problem2\obj\Debug\netcoreapp3.1\Problem2.pdb
+C:\Users\takafumi.ohkubo\Desktop\TendaTest\Tenda_Test\Problem2\obj\Debug\netcoreapp3.1\Problem2.genruntimeconfig.cache
